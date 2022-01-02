@@ -1,0 +1,1 @@
+[{"defineAdditionalVar":"wm \u003d (WifiManager) getSystemService(\"wifi\");","varName":"WifiManager","imports":"android.net.wifi.WifiManager\nandroid.net.wifi.WifiConfiguration","name":"WifiManager","typeName":"WifiManager","icon":"2131166261","description":"Add services to wifi","id":"37","class":"Component.WifiManager","buildClass":"WifiManager","url":"","additionalVar":""}]
